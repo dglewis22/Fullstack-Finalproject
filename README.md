@@ -1,4 +1,4 @@
-#Damon Lewis
+# Damon Lewis
 
 ## About Project (code in src folder!)
 * React app linked to a MySql database that tracks users and set questions and answers.
